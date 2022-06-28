@@ -1,5 +1,5 @@
 <template>
-  <v-app><v-card>Hello Nuxt!</v-card></v-app>
+  <h1>Hello Nuxt!</h1>
 </template>
 
 <script>

@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-starter-bridge-codesandbox",
+  "name": "nuxt-starter-bridge",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -7,9 +7,6 @@
     "build": "nuxi build",
     "start": "nuxi preview",
     "generate": "nuxi generate"
-  },
-  "dependencies": {
-    "@nuxtjs/vuetify": "1.12.3"
   },
   "devDependencies": {
     "@nuxt/bridge": "npm:@nuxt/bridge-edge",
